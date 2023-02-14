@@ -1,0 +1,131 @@
+/*styles index*/
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Roboto', 'Arial' sans-serif !important;
+}
+ul {
+  list-style-type: none;
+}
+
+header .header-nav .logo {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 26px;
+  color: #2196f3;
+  text-decoration: none;
+}
+header .nav-info .info-item .info {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: #757575;
+  text-decoration: none;
+}
+header .nav-info .info-item .info.info:hover {
+  color: #2196f3;
+}
+header .header-nav .nav-item .nav-link:hover {
+  color: #2196f3;
+}
+main .section-title .section-button:hover {
+  cursor: pointer;
+}
+header .header-nav .nav-item .nav-link {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  color: #212121;
+  text-decoration: none;
+}
+main .section-title {
+  background-color: #2f303a;
+}
+main .section-title .title {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+main .section-title .section-button {
+  background-color: #2196f3;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  color: #ffffff;
+}
+
+section .advantage-item .advantage-title {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  color: #212121;
+}
+
+section .advantage-item .advantage-paragraph {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #757575;
+}
+
+section .perfil-item .name.user {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #212121;
+}
+
+section .profession {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #757575;
+}
+footer {
+  background-color: #2f303a;
+}
+
+address .location {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #ffffff;
+}
+address .info {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: #757575;
+  text-decoration: none;
+}
+address .info:hover {
+  color: #2196f3;
+}
+footer .logo {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  color: #2196f3;
+  text-decoration: none;
+}
+/*styles portafolio*/
+main .filter-btn .btn-item:hover {
+  cursor: pointer;
+}
+section .imgproyec-item .proyec-paragraph {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #757575;
+}
